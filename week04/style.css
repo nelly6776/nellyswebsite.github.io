@@ -1,0 +1,35 @@
+*{
+background-color: #fff;
+font-family: 'Poppins', sans-serif;
+}
+.header{
+    text-align: center;
+    color: #0b011a;
+    font-size: 18px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 26%;
+}
+.hero{
+    margin-left: 50px;
+}
+.color{
+    color: #f53b03;
+}
+.caters{
+    margin-left: 50px;
+}
+.new{
+    color: #f53b03;
+}
+.time{
+    margin-left: 50px;
+}
+.place{
+    color: #f53b03;
+}
+
+
